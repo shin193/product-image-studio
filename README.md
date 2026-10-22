@@ -1,2 +1,2 @@
 # product-image-studio
-this is my first try
+A web app for batch resizing, watermarking, and optimizing product images.
